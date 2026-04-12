@@ -2,7 +2,8 @@
 
 This repository contains code used for data processing, statistical analyses, and figure generation for the manuscript:
 
-**Kim et al. (2026).** Climate-linked redistribution of a midwater fish chorus in the Southern California Bight.
+**Kim et al. (2026).** Heatwave-linked redistribution of a midwater fish chorus revealed by decadal ocean soundscapes
+
 
 ## Repository contents
 

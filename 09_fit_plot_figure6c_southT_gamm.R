@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# 08_fit_plot_figure6c_southT_gamm.R
+# 09_fit_plot_figure6c_southT_gamm.R
 #
 # Purpose:
 # Fit the South_T GAMM relating nightly maximum sunset chorus SPL to

@@ -33,14 +33,16 @@ This repository contains code used for data processing, statistical analyses, an
 - `07_plot_figure5b_sdt_diel_selected_sites.R`  
   Generates diel plots for selected SDT sites used in Figure 5B.
 
-- `08_fit_plot_figure6c_southT_gamm.R`  
+- `08_fit_plot_figure5c_sdt_depth_distance_gams.R`  
+   Fits and plots the depth and distance-from-coast GAMs used for Figure 5C.
+
+- `09_fit_plot_figure6c_southT_gamm.R`  
   Fits and plots the South_T GAMM used for Figure 6C.
 
-- `09_plot_figure7_vertical_array_psd443.R`  
+- `10_plot_figure7_vertical_array_psd443.R`  
   Generates the vertical array PSD plots used for Figure 7.
 
- - `10_fit_plot_figure5c_sdt_depth_distance_gams.R`  
-   Fits and plots the depth and distance-from-coast GAMs used for Figure 5C.
+
 
 ### Supplemental figure scripts
 - `S02_plot_supplemental_figure2_diel_focal_sites.R`  

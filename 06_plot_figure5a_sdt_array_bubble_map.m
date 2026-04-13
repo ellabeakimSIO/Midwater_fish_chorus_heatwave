@@ -24,7 +24,7 @@
 %
 % Notes:
 % - This script reproduces the map layer for quantified SDT sites and South_T.
-% - Additional labels or layout edits may have been added downstream in
+% - Additional labels and layout edits were added downstream in
 %   Illustrator for the final assembled figure.
 % -------------------------------------------------------------------------
 

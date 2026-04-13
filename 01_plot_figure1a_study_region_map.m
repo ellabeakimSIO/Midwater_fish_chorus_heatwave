@@ -25,9 +25,8 @@
 %
 % Notes:
 % - This script reproduces the Figure 1A map layer only.
-% - Additional downstream edits or layout elements in the final assembled figure
-%   (for example labels, inset box, or panel B assembly) may have been added
-%   outside this script.
+% - Additional layout elements in the final assembled figure
+%   (for example labels, inset box, or panel B assembly) were made in Adobe Illustrator
 % -------------------------------------------------------------------------
 
 clear; clc;

@@ -39,6 +39,9 @@ This repository contains code used for data processing, statistical analyses, an
 - `09_plot_figure7_vertical_array_psd443.R`  
   Generates the vertical array PSD plots used for Figure 7.
 
+ - `10_fit_plot_figure5c_sdt_depth_distance_gams.R`  
+   Fits and plots the depth and distance-from-coast GAMs used for Figure 5C.
+
 ### Supplemental figure scripts
 - `S02_plot_supplemental_figure2_diel_focal_sites.R`  
   Generates the focal-site diel plots used in Supplemental Figure 2.
@@ -79,6 +82,7 @@ Scripts assume analysis-ready input files are stored in a local `data/` director
 - nightly depth/backscatter summaries
 - vertical array PSD files
 - map input files for MATLAB figures
+- site metadata tables
 
 See the script headers for the expected filenames and required columns.
 
@@ -86,7 +90,7 @@ See the script headers for the expected filenames and required columns.
 
 - Scripts were cleaned from working analysis code used during manuscript preparation.
 - Some figure layout refinements and panel assembly steps were completed outside these scripts in illustrator.
-- `00_build_climate_timeseries.R` is included for provenance but may not be necessary to rerun the main figure scripts if the analysis-ready climate table is already available from Dryad.
+- `00_build_climate_timeseries.R` is included for provenance but is not necessary to rerun the main figure scripts if the analysis-ready climate table is already available from Dryad.
 
 ## Contact
 

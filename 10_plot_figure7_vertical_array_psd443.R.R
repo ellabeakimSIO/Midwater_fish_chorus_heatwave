@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# 09_plot_figure7_vertical_array_psd443.R
+# 10_plot_figure7_vertical_array_psd443.R
 #
 # Purpose:
 # Generate Figure 7 for the Vertical_DM array using 1 min-binned PSD at

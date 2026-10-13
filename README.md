@@ -1,8 +1,8 @@
-# UF440 climate-linked redistribution manuscript code
+# UF440 climate-linked geographic change manuscript code
 
 This repository contains code used for data processing, statistical analyses, and figure generation for the manuscript:
 
-**Kim et al. (2026).** Heatwave-linked redistribution of a midwater fish chorus revealed by decadal ocean soundscapes
+**Kim et al. (2026).** Heatwave-linked geographic change in a midwater fish chorus revealed by decadal ocean soundscapes
 
 
 ## Repository contents
